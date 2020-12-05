@@ -12,3 +12,7 @@ def zhenya_fun():
 
 def vlad_branch_fun():
     print("vlad branch")
+
+
+def new_branch_fun():
+    print("Zhenya branch")
