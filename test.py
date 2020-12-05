@@ -3,3 +3,6 @@ def test_fun():
 
 def test():
     print("test")
+
+def caluclateSum():
+    print("2 + 2")
