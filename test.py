@@ -6,3 +6,6 @@ def test():
 
 def new_fun():
     print("Print new")
+
+def caluclateSum():
+    print("2 + 2")
